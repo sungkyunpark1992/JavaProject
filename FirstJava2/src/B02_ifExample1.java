@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B_02ifExample1 {
+public class B02_ifExample1 {
 
 	public static void main(String[] args) {
 		// 단순 if구문
