@@ -1,3 +1,4 @@
+package b;
 
 public class B04_forExample1 {
 

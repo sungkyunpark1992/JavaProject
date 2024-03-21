@@ -16,6 +16,8 @@
  *    이를 외부에서 사용할 때도 동일한 방식을 사용할 수 있다.
  * 
  */
+package c;
+
 public class C05_encapsulation {
 	
 	public static void main(String[] args) {

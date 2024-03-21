@@ -1,3 +1,4 @@
+package b;
 import java.util.Scanner;
 
 public class B03_switchExample2 {

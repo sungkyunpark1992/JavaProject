@@ -1,3 +1,4 @@
+package c;
 
 class InstanceInit{
 	public final int DATA;

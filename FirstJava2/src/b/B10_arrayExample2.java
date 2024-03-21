@@ -1,3 +1,4 @@
+package b;
 
 public class B10_arrayExample2 {
 

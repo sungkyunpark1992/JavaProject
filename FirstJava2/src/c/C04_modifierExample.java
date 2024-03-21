@@ -10,6 +10,7 @@
  *  (단, 클래스의 경우에는 public과 default만 가능함. 단, 내부 클래스는 4가지 접근 제한자 다 가능)
  *  
  */
+package c;
 
 import obj.modifier.Super;
 

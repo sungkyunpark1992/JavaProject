@@ -1,3 +1,4 @@
+package b;
 
 public class B03_switchExample1 {
 

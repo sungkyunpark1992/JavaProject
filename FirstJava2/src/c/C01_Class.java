@@ -1,3 +1,4 @@
+package c;
 import obj.Student;
 
 public class C01_Class {

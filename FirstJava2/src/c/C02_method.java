@@ -1,3 +1,4 @@
+package c;
 
 public class C02_method {
 	//메서드 (mathod)

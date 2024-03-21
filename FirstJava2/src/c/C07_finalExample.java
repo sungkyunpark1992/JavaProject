@@ -8,6 +8,8 @@
  *   - 클래스 final이 붙으면 그 클래스는 자식 클래스를 가질 수 없다.
  * 	 
  */
+package c;
+
 class MyDate {
 	int year = 2024;
 	int month = 3;

@@ -1,3 +1,4 @@
+package a;
 
 public class A04_varTypes {
 

@@ -1,3 +1,4 @@
+package b;
 
 public class B08_format {
 

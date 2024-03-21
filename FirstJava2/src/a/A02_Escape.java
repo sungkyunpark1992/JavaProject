@@ -1,5 +1,6 @@
-
 //들여쓰기 규치
+package a;
+
 
 public class A02_Escape {
 

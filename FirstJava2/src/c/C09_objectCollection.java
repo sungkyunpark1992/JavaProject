@@ -1,3 +1,4 @@
+package c;
 import obj.inheritance.Person;
 import obj.inheritance.goodcase.Student;
 

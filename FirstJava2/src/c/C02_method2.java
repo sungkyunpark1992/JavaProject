@@ -1,3 +1,4 @@
+package c;
 import java.util.Scanner;
 
 public class C02_method2 {

@@ -40,6 +40,7 @@
  * - 여러개의 인터페이스를 동시에 구현할 수 있습니다. 
  * - 반드시 인터페이스 내에 모든 메서드를 구현해야 합니다. 
  */
+package d;
 
 interface ShapeInterface{
 	//인터페이스 변수는 public static fanal을 생략할 수 있고, 이는 상수로

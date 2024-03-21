@@ -1,3 +1,4 @@
+package c;
 import obj.Pen;
 
 public class C00_GarbageCollectingEx {

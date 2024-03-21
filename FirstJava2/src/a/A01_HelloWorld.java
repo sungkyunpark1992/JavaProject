@@ -47,6 +47,8 @@
  */
 
 //JAVA에서 public class의 이름은 항상 파일명과 같아야 한다.
+package a;
+
 public class A01_HelloWorld {
 
 	//main() 메서드 : 프로그램의 시작 위치

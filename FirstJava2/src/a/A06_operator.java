@@ -1,3 +1,4 @@
+package a;
 
 public class A06_operator {
 

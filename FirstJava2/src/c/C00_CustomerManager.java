@@ -1,3 +1,4 @@
+package c;
 import java.util.Scanner;
 
 public class C00_CustomerManager {

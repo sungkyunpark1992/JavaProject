@@ -1,3 +1,4 @@
+package c;
 import obj.Pen;
 
 public class C01_Class2 {

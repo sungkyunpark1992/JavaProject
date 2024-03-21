@@ -1,3 +1,4 @@
+package b;
 import java.util.Arrays;
 
 public class B09_ArrayExample1 {

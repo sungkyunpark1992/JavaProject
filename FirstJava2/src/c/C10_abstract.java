@@ -20,6 +20,8 @@
  */
 
 //도형
+package c;
+
 abstract class Shape {	//추상 클래스
 	
 	private int x;

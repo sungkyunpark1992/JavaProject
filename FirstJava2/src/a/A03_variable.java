@@ -1,3 +1,4 @@
+package a;
 
 
 public class A03_variable {

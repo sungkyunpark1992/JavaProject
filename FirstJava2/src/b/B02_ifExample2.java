@@ -1,3 +1,4 @@
+package b;
 import java.util.Random;
 
 public class B02_ifExample2 {

@@ -1,3 +1,4 @@
+package b;
 
 public class B08_variableLifeTime {
 	// 로컬변수와 전역변수 클래스에 대한 멤버변수 관련된 내용
